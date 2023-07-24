@@ -11,7 +11,7 @@ external_templates:
 templates:
   playlist:
     default:
-      libraries: Movies, TV Shows
+      libraries: Movies, TV Shows, Animated, Anime
       item_radarr_tag_<<key>>: <<item_radarr_tag>>
       item_sonarr_tag_<<key>>: <<item_sonarr_tag>>
       trakt_list_<<key>>: <<trakt_list>>
