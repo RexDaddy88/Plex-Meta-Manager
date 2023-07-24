@@ -146,7 +146,7 @@ playlists:
         summary_furious:
       - name: arr
       
-  Alien / Predator (Timeline Order):
+  Alien & Predator (Timeline Order):
     variables:
       key: alien
     template:
