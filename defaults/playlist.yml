@@ -127,3 +127,12 @@ playlists:
         trakt_list: https://trakt.tv/users/qamazi/lists/dragon-ball-binged-out
         summary_dragonball: Dragon Ball follows the adventures of an extraordinarily strong young boy named Goku as he searches for the seven dragon balls. These balls, when combined, can grant the owner any one wish he desires. Along the way he makes many new friends, and enemies, and he trains to become the strongest fighter in the world.
       - name: arr
+      
+  Battlestar Galactica (Timeline Order):
+    variables:
+      key: battlestar
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/mrvaykadji/lists/battlestar-galactica-reboot-viewing-order
+        summary_battlestar: The ultimate viewing order for Battlestar Galactica! With so many off-shoots, extended episodes, webisodes, one-off movies and weird bits and pieces it's very hard for a new Battlestar Galactica fan to know exactly what order to watch everything in.
+      - name: arr      
