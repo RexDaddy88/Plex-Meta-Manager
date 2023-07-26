@@ -181,3 +181,13 @@ playlists:
         trakt_list: https://trakt.tv/users/davidisrad/lists/the-walking-dead-universe
         summary_dead: 
       - name: arr  
+      
+  Apocalyptic & Dystopian Films:
+    variables:
+      key: apoc
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/crims7392/lists/apocalyptic-dystopian-films?sort=rank,asc
+        summary_apoc: 
+      - name: arr  
+
