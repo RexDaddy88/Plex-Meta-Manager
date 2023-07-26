@@ -182,7 +182,7 @@ playlists:
         summary_dead: 
       - name: arr  
       
-  Apocalyptic & Dystopian Films:
+  Apocalyptic and Dystopian Films:
     variables:
       key: apoc
     template:
