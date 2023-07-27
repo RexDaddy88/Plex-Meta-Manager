@@ -187,7 +187,24 @@ playlists:
       key: apoc
     template:
       - name: playlist
-        trakt_list: https://trakt.tv/users/crims7392/lists/apocalyptic-dystopian-films?sort=rank,asc
+        trakt_list: https://trakt.tv/users/crims7392/lists/apocalyptic-dystopian-films
         summary_apoc: 
       - name: arr  
+      
+  Baseball Movies:
+    variables:
+      key: base
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/pterisaur/lists/baseball-24253132
+        summary_base: 
+      - name: arr  
 
+  Hockey Movies:
+    variables:
+      key: hock
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/pterisaur/lists/hockey-24253407
+        summary_hock: 
+      - name: arr  
