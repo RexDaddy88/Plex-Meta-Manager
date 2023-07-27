@@ -4,9 +4,10 @@
 #          EDITING THIS FILE MAY CAUSE PULLING NEW UPDATES TO FAIL           #
 #         https://metamanager.wiki/en/latest/defaults/playlist.html          #
 ##############################################################################
-
+templates:
+    sort_title: "!019_<<collection_name>>"
 
 dynamic_collections:
   Trakt Liked Lists:
     type: trakt_liked_lists
-    sort_title: "!019_<<collection_name>>"
+
