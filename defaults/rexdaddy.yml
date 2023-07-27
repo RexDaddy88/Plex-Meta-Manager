@@ -9,3 +9,4 @@
 dynamic_collections:
   Trakt Liked Lists:
     type: trakt_liked_lists
+    sort_title: "!019_<<collection_name>>"
