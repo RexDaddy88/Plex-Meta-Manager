@@ -182,7 +182,7 @@ playlists:
         summary_dead: 
       - name: arr  
       
-  Apocalyptic and Dystopian Films:
+  Apocalyptic & Dystopian Films:
     variables:
       key: apoc
     template:
@@ -208,3 +208,22 @@ playlists:
         trakt_list: https://trakt.tv/users/pterisaur/lists/hockey-24253407
         summary_hock: 
       - name: arr  
+
+  IMDb's Top Sport Movies:
+    variables:
+      key: sport
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/irishstevo/lists/imdb-s-top-sport-movies?sort=rank,asc
+        summary_sport: 
+      - name: arr  
+ 
+  Top 100 Kids & Family Movies:
+    variables:
+      key: family
+    template:
+      - name: playlist
+        trakt_list: https://trakt.tv/users/giladg/lists/rotten-tomatoes-top-100-kids-family-movies
+        summary_family: 
+      - name: arr  
+ 
