@@ -146,15 +146,6 @@ playlists:
         summary_stargate: Includes movies, SG1, Atlantis, Universe, Catherine, and Kino streams. Most of the credit to u/bill from r/stargate
       - name: arr
       
-  Power Rangers (Chronological Order):
-    variables:
-      key: rangers
-    template:
-      - name: playlist
-        trakt_list: https://trakt.tv/users/bizarrebehavior/lists/tv-series-power-rangers-chronological-order
-        summary_rangers: 
-      - name: arr  
-      
   The Walking Dead Universe (Chronological Order):
     variables:
       key: dead
